@@ -1,1 +1,1 @@
-# djnago-image-gallery
+# django-image-gallery
